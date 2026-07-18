@@ -1,0 +1,7 @@
+# Flea Price Watch
+
+フリマ相場、値下げ、新着、売れ筋を通知し、有料ウォッチ、分析ツール、アフィリエイトへつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 有料ウォッチ, 分析ツール, affiliate, 広告, リード販売
+Primary categories: 相場, 値下げ, 新着, 売れ筋, ウォッチ
