@@ -8,7 +8,7 @@ Recommended repository name: `flea-price-watch`
 
 ## Domain candidates
 
-First candidate: `fleaprice.jp`
+Confirmed domain: `fleaprice.jp`
 
 Other candidates:
 
